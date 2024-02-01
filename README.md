@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/product-preview-card-component-HJuadbnq52)
+- Live Site URL: [Add live site URL here](https://cosmic-gingersnap-59b911.netlify.app/)
 
 ## My process
 
@@ -55,7 +55,7 @@ I learned from this challenge how to use img in specific media query
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@MoBlack00](https://www.frontendmentor.io/profile/MoBlack00)
 - Linkedin - [@mo-az-ahmad-14532b168](https://www.linkedin.com/in/mo-az-ahmad-14532b168/)
 
 ## Acknowledgments
